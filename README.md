@@ -1,2 +1,2 @@
-# IndividualStore
+# IndividualStore ReactApp
 React Project
