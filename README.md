@@ -1,2 +1,2 @@
 # IndividualStore ReactApp
-React Project
+A React practice project suitable for beginners
